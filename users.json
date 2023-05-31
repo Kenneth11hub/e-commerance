@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "63aa7bd042b1e0d90e533f35"
+  },
+  "fullName": {
+    "fname": "Benedict Earle Gabriel",
+    "mname": "Romero",
+    "lname": "Pajarillaga",
+    "suffix": "NONE"
+  },
+  "role": {
+    "name": "admin",
+    "display_name": "Administrator"
+  },
+  "address": "#25, Mabini Extension, Cabanatuan City, Nueva Ecija, Region III (Central Luzon)",
+  "dob": "2000-09-08",
+  "isMale": true,
+  "mobile": "9510706841",
+  "email": "benedictearle@gmail.com",
+  "nickname": "Quinn Tracy",
+  "password": "$2a$10$TqHC4ToTsbIN84ZebNknL.q8Y3/4D7W7SJsagCKtGLdiY4Omb.YcC",
+  "rate": 146,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672798466916"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672798466916"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aa7bd042b1e0d90e533f36"
+  },
+  "fullName": {
+    "fname": "Kimberly",
+    "mname": "Penaflor",
+    "lname": "Sarmiento",
+    "suffix": "NONE"
+  },
+  "role": {
+    "name": "manager",
+    "display_name": "Manager"
+  },
+  "address": "#25, Mabini Extension, Cabanatuan City, Nueva Ecija, Region III (Central Luzon)",
+  "dob": "1999-10-12",
+  "isMale": false,
+  "mobile": "9510706841",
+  "email": "manager@gmail.com",
+  "nickname": "Quinn Lotus",
+  "password": "$2a$10$8FVdNaoMPEPrnNGtQ2ncce9sPCxGIXfSEfCtGFZNykgrd1SWm5NEa",
+  "rate": 62.5,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672798467035"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672798467035"
+    }
+  },
+  "__v": 0
+}]

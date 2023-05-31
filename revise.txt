@@ -1,0 +1,10 @@
+login 
+register 
+email-otp -done
+
+refference number recipe -gcash -done
+
+sales print out sales -farmers sales sa admin --done
+
+recipe picture
+background image login --done

@@ -1,0 +1,12 @@
+.profile-statistics {
+  border-width: 2px;
+  border-style: dashed;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.custom-security-eye {
+  position: absolute;
+  top: 1rem;
+  right: 1.4rem;
+}
